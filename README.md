@@ -1,0 +1,1 @@
+Exercícios resolvidos em python no site [URI Judge Online](https://www.urionlinejudge.com.br/judge/pt)
